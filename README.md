@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adishreekorde
-- 👀 I’m interested in building stuff including apps and games
-- 📫 How to reach me // @adishree.korde
+
+- 📫 How to reach me // @adishreekorde
 
 <!---
 adishreekorde/adishreekorde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
